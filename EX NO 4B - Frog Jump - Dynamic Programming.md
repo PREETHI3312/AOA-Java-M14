@@ -27,8 +27,8 @@ A single integer – number of distinct ways to reach step n.
 ```
 /*
 Program to implement Reverse a String
-Developed by: Mohamed Muffashal K A
-Register Number: 212222220024
+Developed by: PREETHI A K
+Register Number: 212223230156
 */
 import java.util.Scanner;
 
